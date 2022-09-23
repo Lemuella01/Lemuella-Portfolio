@@ -18,23 +18,23 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                <p>Information architecture.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                <p>Design technology consulting.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                <p>User stories.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                <p>Brand and design system development..</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                <p>Wireframes.</p>
               </li>
                   {/* END OF UI/ UX DESIGN*/}
             </ul>
@@ -47,27 +47,27 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                <p>Cross-Browser development.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                <p>Full Stack Web Development.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                <p>HTML5/CSS Development.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                <p>Custom Web App Development.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                <p>Data Migration, Support and Maintenance.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                <p>CMS Design and Development.</p>
               </li>
                   {/* END OF WEB DEV*/}
             </ul>
@@ -80,24 +80,21 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                <p>Landing Page Copy .</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                <p>Blog Writing Services.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                <p>Copywriting Services .</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                <p>Video Content.</p>
               </li>
-              <li>
-                <BiCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
-              </li>
+              
                   {/* END OF Content creation*/}
             </ul>
         </article>

@@ -14,7 +14,7 @@ const Portfolio = () => {
       description:
       'Fully responsive interactive e-commerce story website built based on Figma design',
       technologies: 'React | states | css',
-      link: 'https://melodic-boba-111583.netlify.app/',
+      link: 'https://vasiti-ng.netlify.app',
       github: 'https://github.com/Lemuella01/vasiti/',
     },
     {

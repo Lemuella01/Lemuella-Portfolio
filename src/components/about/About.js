@@ -36,12 +36,16 @@ const About = () => {
         <article className="about__card">
           <VscFolderLibrary className='about__icon'/>
           <h5>Project</h5>
-          <small>20+ completed</small>
+          <small>5+ completed</small>
         </article>   
         </div>
        
 
-        <p> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex .</p>
+        <p> "My name is Okon lemuella inyang  I'm a Front End Engineer based in Lagos, Nigeria. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
+
+      Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects. 
+
+ .</p>
 
         <a href="#contact" className='btn btn-primary'>Lets chat</a>
       </div>
